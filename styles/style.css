@@ -6,3 +6,203 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: lighter;
+  }
+  
+  h1{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 5rem;
+    font-weight: lighter;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration-color: #00B172;
+    text-decoration-line: underline;
+    padding-top: 10px;
+}
+ 
+h4{
+    font-size: 1.3em;
+    padding-left: 7rem;
+    color: #00B172;
+}
+
+h5{
+   margin: 0 auto;
+   font-size: 1.8rem;
+   color: white;
+   padding-left: 120px ;
+   padding-top: 65px;
+   padding-bottom: 30px;
+   font-weight: 350;
+   text-decoration: underline;
+}
+
+h6{
+    margin: 0 auto;
+   font-size: 1.4rem;
+   color: white;
+   padding-left: 120px ;
+   padding-left: px ;
+   padding-top: 39px;
+   font-weight: 350;
+   padding-bottom: 12px;
+}
+
+#sideIcon{
+    height: 70%;
+    width: 15%;
+    margin-left: -9rem;
+    margin-bottom: 0.6rem;
+    margin-top: -1.8rem;
+}
+
+.ulborda{
+    margin: 0.2rem;
+    border: 0.2rem solid;
+    border-color:  #00B172;
+} 
+
+#list-bar-article {
+    list-style-type: none;
+    width: 400px; 
+    display: flex;
+    justify-content: space-evenly;
+    float: right;
+    padding-left: 1.5rem;
+}
+
+ul{
+  padding-top: 1rem;
+   
+}
+
+header{
+    background-image: url("../images/landing.jpg");
+    background-size: cover;
+    height: 850px;
+    background-repeat: no-repeat;
+    padding-top: 2px;
+    width: 100%;
+    margin:  0;
+}
+#text-positionin {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;  
+    margin-top: -28px;
+}
+
+.li-border{
+    height: 20px;
+    width: 20px;
+    border: 0.2rem solid;
+    border-color: hsl(111, 88%, 51%);
+    padding-bottom: 0.9rem;
+    margin-right: 0.3rem;
+}
+
+#borderhead{
+    margin: 0 auto;
+    border: 0.2rem solid;
+    border-color: purple;
+}
+
+.spoty-box{
+    border: 0.2rem solid;
+    border-color: yellow; 
+    width: 30%;
+}
+.bordersec {
+    border: 0.2rem solid;
+    border-color: orange;
+    padding: 40px 6px 30px 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+.sectionborder{
+    border: 0.2rem solid;
+    border-color: red;
+}
+
+ img{
+    height: 90px;
+    width: 109px;
+    padding-top: 2rem;
+    padding-left: 9.2rem;
+}
+
+#flexposition{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+p{
+    margin: 0 auto;
+    text-align: center ;
+    
+  
+}
+.p-styling{
+    padding-bottom: 0.5rem;
+    text-align: center ;
+
+ }
+#hd-position{
+    padding-left: 9.7rem;
+    font-size: 1.3em;
+    color: #00B172;
+    margin-bottom: 2rem;
+}
+#position{
+    padding-left: 7.2rem;
+    font-size: 1.3em;
+    color: #00B172;
+    margin-bottom: 2rem;
+}
+footer{
+    background-color: #00B172;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.spoty-image-position{
+    float: right;
+    padding-right: 43rem;
+    padding-top: 130px;
+}
+.spoty-app{ 
+    height: 80%;
+    width: 20%;  
+    padding-left: 63rem;
+    margin-top: -32rem;
+    padding-top: 4rem;
+}
+
+ol{
+    margin: 0 auto;
+    padding-left: 120px;
+    list-style-type: none;
+    padding-top: 5px;
+    font-size: 1.0rem;
+    color: rgb(223, 223, 223);
+    font-weight:lighter ;
+}
+
+.f-border{
+    border: 0.2rem solid;
+    border-color: blue;   
+}
