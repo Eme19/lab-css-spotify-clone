@@ -129,8 +129,6 @@ header{
     padding: 40px 6px 30px 6px;
     margin-left: 10px;
     margin-right: 10px;
-
-
 }
 .sectionborder{
     border: 0.2rem solid;
@@ -152,14 +150,14 @@ header{
 p{
     margin: 0 auto;
     text-align: center ;
-    
-  
 }
+
 .p-styling{
     padding-bottom: 0.5rem;
     text-align: center ;
 
  }
+ 
 #hd-position{
     padding-left: 9.7rem;
     font-size: 1.3em;
